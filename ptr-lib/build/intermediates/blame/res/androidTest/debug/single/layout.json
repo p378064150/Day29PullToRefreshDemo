@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\DEMO\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\DEMO\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\class1604_A4_A6\\day29\\code\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "E:\\class1604_A4_A6\\day29\\code\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\DEMO\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\DEMO\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\class1604_A4_A6\\day29\\code\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\class1604_A4_A6\\day29\\code\\Day29PullToRefreshDemo\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_classic_default_header.xml"
+    }
+]
